@@ -1,0 +1,97 @@
+{
+    "exportType": "component",
+    "info": {
+        "uw_namespace": "menu",
+        "uw_classname": "menuBar",
+        "isLocked": false,
+        "userwidgets": [
+            "menu.menuBar"
+        ],
+        "templates": [],
+        "actions": {
+            "common": {
+                "AS_FlexContainer_g31ba1883bee4f0981085c3a7727677a": {
+                    "channel": "common",
+                    "actionId": "AS_FlexContainer_g31ba1883bee4f0981085c3a7727677a",
+                    "actionName": "AS_FlexContainer_g31ba1883bee4f0981085c3a7727677a",
+                    "key": "ide_onClick"
+                },
+                "AS_FlexContainer_f31fc2f4ebfa4dcfba23f22ab0a4f666": {
+                    "channel": "common",
+                    "actionId": "AS_FlexContainer_f31fc2f4ebfa4dcfba23f22ab0a4f666",
+                    "actionName": "AS_FlexContainer_f31fc2f4ebfa4dcfba23f22ab0a4f666",
+                    "key": "ide_onClick"
+                },
+                "AS_FlexContainer_de6505d626f4400da39d90e691022d30": {
+                    "channel": "common",
+                    "actionId": "AS_FlexContainer_de6505d626f4400da39d90e691022d30",
+                    "actionName": "AS_FlexContainer_de6505d626f4400da39d90e691022d30",
+                    "key": "ide_onClick"
+                },
+                "AS_FlexContainer_h23dd4ac5a2f475eb643c5b324cd4801": {
+                    "channel": "common",
+                    "actionId": "AS_FlexContainer_h23dd4ac5a2f475eb643c5b324cd4801",
+                    "actionName": "AS_FlexContainer_h23dd4ac5a2f475eb643c5b324cd4801",
+                    "key": "ide_onClick"
+                },
+                "AS_FlexContainer_ica8903e4ec446cd8e3bb2639724beaa": {
+                    "channel": "common",
+                    "actionId": "AS_FlexContainer_ica8903e4ec446cd8e3bb2639724beaa",
+                    "actionName": "AS_FlexContainer_ica8903e4ec446cd8e3bb2639724beaa",
+                    "key": "ide_onClick"
+                },
+                "AS_FlexContainer_cfafc1c0f1fe453880f7e76ed3f198d0": {
+                    "channel": "common",
+                    "actionId": "AS_FlexContainer_cfafc1c0f1fe453880f7e76ed3f198d0",
+                    "actionName": "AS_FlexContainer_cfafc1c0f1fe453880f7e76ed3f198d0",
+                    "key": "ide_preShow"
+                }
+            }
+        },
+        "skins": [
+            "MySkinA",
+            "trySkinM",
+            "wrapperSkin",
+            "aTabNormal",
+            "aTabActive",
+            "appBarBorderSkin",
+            "abtmTab",
+            "flxBox",
+            "slFbox",
+            "tabActiveSkin",
+            "tabNormalSkin",
+            "topBorderSkin",
+            "titleNormalSkin",
+            "tabIconNormalSkin",
+            "sknSectionHeaderLabelSkin",
+            "sknLblTimeStamp",
+            "iconTheme",
+            "aLabelNormal",
+            "aLabelActive",
+            "CopyslForm0f07e04855a4946",
+            "CopyslFbox0e60d51b508b141",
+            "CopyslFbox0c0bc63e1c4e449",
+            "CopyslFbox0ca070a0d097c44",
+            "CopyslFbox0c2ea131cd38d43",
+            "CopyslFbox0c37bae2cded240",
+            "CopyslFbox0b55d2ed7ba594a",
+            "CopyslFbox0e29f27ea4d854b",
+            "CopydefLabel0a7bbc3beb6e84a",
+            "CopydefLabel0aa2f3bc1565741",
+            "mainSkinbottomAppBar"
+        ],
+        "images": [],
+        "fonts": [
+            "iphoneSystem"
+        ],
+        "nativeApis": 0,
+        "localFiles": [],
+        "cordova": [],
+        "forms": {},
+        "type": "userwidget",
+        "isMVC": false
+    },
+    "createdOn": "2023-06-14T20:52:48.433Z",
+    "createdVizVersion": "9.5.6",
+    "project_version": "sprint42"
+}

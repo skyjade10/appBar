@@ -1,0 +1,42 @@
+{
+    "AS_FlexContainer_cfafc1c0f1fe453880f7e76ed3f198d0": {
+        "id": "AS_FlexContainer_cfafc1c0f1fe453880f7e76ed3f198d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__j97a7c75617143fb9b7cf7d96490c202",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tabViewsVisibility",
+            "display": "tabViewsVisibility",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__j6ad47fb44ec4517bd784e7939daf31d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDimensions",
+            "display": "setDimensions",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }, {
+            "id": "INVOKE_FUNCTION__b49573ed5f564eeeaf6b2f22035dda82",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setTheme",
+            "display": "setTheme",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
