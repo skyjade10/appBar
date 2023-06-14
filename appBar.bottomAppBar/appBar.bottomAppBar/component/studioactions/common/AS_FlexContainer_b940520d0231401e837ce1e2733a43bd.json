@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_b940520d0231401e837ce1e2733a43bd": {
+        "id": "AS_FlexContainer_b940520d0231401e837ce1e2733a43bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u0457a3b4eb341ce9202ba7c160c4c0f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ca5a861e159d4df4a5450ec9a23fd5f7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateToForm",
+            "display": "navigateToForm",
+            "inputparams": [{
+                "name": "formName",
+                "value": "this.tabCtoForm"
+            }, {
+                "name": "tabName",
+                "value": "this.view.flxTabC.id"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
